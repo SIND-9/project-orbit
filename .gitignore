@@ -1,0 +1,12 @@
+# Sensitive configuration data
+orbit.config.json
+
+# Local caches and tracking states
+.orbit_cache
+*.pyc
+__pycache__/
+
+# Local daemon logs and artifacts
+deployment.log
+snapshots/
+deployed_app/

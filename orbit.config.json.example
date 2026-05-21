@@ -1,0 +1,17 @@
+{
+  "default": {
+    "ip": "xxx.xxx.x.x",
+    "port": "8080",
+    "token": "your_secret_token_here"
+  },
+  "staging": {
+    "ip": "xxx.xxx.x.x",
+    "port": "9090",
+    "token": "your_secret_token_here"
+  },
+  "tablet": {
+    "ip": "xxx.xxx.x.x",
+    "port": "8080",
+    "token": "your_secret_token_here"
+  }
+}
